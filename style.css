@@ -1,0 +1,33 @@
+:root{
+    --cor-de-fundo:#1E1E1E;
+    --preto:#020201;
+    --branco: #130d0d;
+    --botao-ativo: #3A375E;
+    --botao-inativo: #0a1458;
+    --texto-de-fundo:#5e6278;
+}
+
+
+body{
+    background-color: rgb(15, 15, 14);
+    color: rgb(244, 248, 242);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: center;
+}
+.botão{
+    background-color: rgb(180, 9, 196);
+    font-size: 40px;
+    border-radius: 10px;
+    color: rgb(8, 4, 4);
+    margin: 20px;
+    padding: 20px;
+}
+
+.conteudo-principal{
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    align-items: center;
+    margin: 0 auto;
+}
