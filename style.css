@@ -1,7 +1,7 @@
 :root{
     --cor-de-fundo:#1E1E1E;
-    --preto:#020201;
-    --branco: #130d0d;
+    --verde:#6FFF57;
+    --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: #0a1458;
     --texto-de-fundo:#5e6278;
@@ -9,17 +9,17 @@
 
 
 body{
-    background-color: rgb(15, 15, 14);
-    color: rgb(244, 248, 242);
+    background-color: rgb(30, 48, 24);
+    color: rgb(109, 241, 9);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 60px;
     text-align: center;
 }
 .botão{
-    background-color: rgb(180, 9, 196);
+    background-color: rgb(24, 163, 168);
     font-size: 40px;
     border-radius: 10px;
-    color: rgb(8, 4, 4);
+    color: rgb(198, 240, 10);
     margin: 20px;
     padding: 20px;
 }
@@ -30,4 +30,12 @@ body{
     width: 20px;
     align-items: center;
     margin: 0 auto;
+}
+.imagem1{
+    width: 25s0px;
+    height: 250px;
+}
+.meta{
+  display: flex;
+  padding: 20px;
 }
